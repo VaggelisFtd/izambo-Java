@@ -1,4 +1,4 @@
-Άσκηση 4 sdi19000301 Φωτιάδης Ευάγγελος
+
 
 εντολή για compile:javac classes/*.java enums/*.java
 εντολή για run: java classes.MainClass 10 impressionism good
